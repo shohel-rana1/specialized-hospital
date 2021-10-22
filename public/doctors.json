@@ -1,0 +1,107 @@
+[
+    {
+        "D_id": 20,
+        "img": "https://i.ibb.co/hZckwcC/Asif-Mujtaba.jpg",
+        "name": "Dr. Asif Mujtaba",
+        "designation": "Senior Consultant,Respiratory Medicine",
+        "description": "MD (Respiratory Medicine), FCCP (Japan)"
+    },
+    {
+        "D_id": 21,
+        "img": "https://i.ibb.co/8sr88vC/Dr-Kazi-Mahabub-E-Khuda.jpg",
+        "name": "Dr. Kazi Mahbub-E-Khuda",
+        "designation": "Senior Consultant,Respiratory Medicine",
+        "description": "MD (Respiratory Medicine), FCCP (USA)"
+    },
+    {
+        "D_id": 22,
+        "img": "https://i.ibb.co/KzsDYQW/Dr-Rajib-Kumar-Saha.jpg",
+        "name": "Dr. Rajib Kumar Saha",
+        "designation": "Senior Consultant,Respiratory Medicine",
+        "description": "MD (Respiratory Medicine), FCCP (Uk)"
+    },
+    {
+        "D_id": 23,
+        "img": "https://i.ibb.co/wSJLzzZ/Dr-Jahangir-3.jpg",
+        "name": "Dr. Jahangir Alam",
+        "designation": "Senior Consultant,Internal Medicine",
+        "description": "Degree - MBBS (DMC), MRCP (UK), FRCP (Edin)"
+    },
+    {
+        "D_id": 24,
+        "img": "https://i.ibb.co/gyt8n06/1620711264.jpg",
+        "name": "Dr. Tasnova Mahin",
+        "designation": "Consultant,Internal Medicine",
+        "description": "Degree - MBBS, FCPS (Medicine), MRCP"
+    },
+    {
+        "D_id": 25,
+        "img": "https://i.ibb.co/MDhLNrt/Dr-Raihan-2.jpg",
+        "name": "Dr. Raihan Rabbi",
+        "designation": "Consultant,Internal Medicine",
+        "description": "Degree - MBBS, FCPS (Medicine), MRCP"
+    },
+    {
+        "D_id": 26,
+        "img": "https://i.ibb.co/wSyw6tJ/Dr-Dilshad-Jahan.jpg",
+        "name": "Dr. Dilshad Jahan",
+        "designation": "Senior Consultant,Cardiac Surgery",
+        "description": "Degree - MBBS (DMC), MRCP (UK), FRCP (Edin)"
+    },
+    {
+        "D_id": 27,
+        "img": "https://i.ibb.co/4VSkfJ2/Dr-Md-Nazmul-Huda.jpg",
+        "name": "Dr. Md NAjmul Haque",
+        "designation": "Senior Consultant,Neuromedicine",
+        "description": "MBBS (DMC), MD (Neurology)"
+    },
+    {
+        "D_id": 28,
+        "img": "https://i.ibb.co/Rhyr757/dr-abdul-kader.jpg",
+        "name": "Dr. Abdul Kader",
+        "designation": "Senior Consultant,Respiratory Medicine",
+        "description": "MD (Respiratory Medicine), FCCP (USA)"
+    },
+    {
+        "D_id": 29,
+        "img": "https://i.ibb.co/XZQcgJY/dr-akhtanur-rahman.jpg",
+        "name": "Dr. Akhtanur Rahman",
+        "designation": "Senior Consultant,Cardiac Surgery",
+        "description": "Degree - MBBS, MS (Cardio-Vascular & Thoracic Surgery)"
+    },
+    {
+        "D_id": 30,
+        "img": "https://i.ibb.co/gwmt2cw/dr-asif-manwar.jpg",
+        "name": "Dr. Asif Manwar",
+        "designation": "Senior Consultant,Neuromedicine",
+        "description": "MBBS (DMC), MD (Neurology)"
+    },
+    {
+        "D_id": 31,
+        "img": "https://i.ibb.co/sm1SjS0/dr-kamal-pasha.png",
+        "name": "Dr. Kamal Pasha",
+        "designation": "Senior Consultant,Cardiac Surgery",
+        "description": "Degree - MBBS, MS (Cardio-Vascular & Thoracic Surgery)"
+    },
+    {
+        "D_id": 32,
+        "img": "https://i.ibb.co/PDs7Mpc/Dr-Rejaus-Sattar-4.jpg",
+        "name": "Dr. Rejaus Sattar",
+        "designation": "Senior Consultant,Respiratory Medicine",
+        "description": "Degree - MBBS, FCPS (Medicine), MRCP"
+    },
+    {
+        "D_id": 33,
+        "img": "https://i.ibb.co/GRDdhZ7/Jilhuj-uddin.jpg",
+        "name": "Dr. Jilluj Uddin",
+        "designation": "Senior Consultant,Respiratory Medicine",
+        "description": "MD (Respiratory Medicine), FCCP (USA)"
+    },
+    {
+        "D_id": 34,
+        "img": "https://i.ibb.co/rxyfBcx/Prof-Dr-Manzur-Morshed.jpg",
+        "name": "Prof Dr. Manzur Morshed",
+        "designation": "Senior Consultant,Vascular Surgery",
+        "description": "MBBS BCS (Health)"
+    }
+]

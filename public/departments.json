@@ -1,0 +1,32 @@
+[
+    {
+        "id": "DD98REF09",
+        "img": "https://i.ibb.co/0j5Nr6y/respiratory.jpg",
+        "name": "Respiratory Medicine"
+    },
+    {
+        "id": "DDBBF98REF",
+        "img": "https://i.ibb.co/XCXCHgc/General-Medicine.jpg",
+        "name": "General Medicine"
+    },
+    {
+        "id": "DD98DREF",
+        "img": "https://i.ibb.co/KNHFzWP/cardiology.jpg",
+        "name": "Cardiology"
+    },
+    {
+        "id": "DD98WEYREF",
+        "img": "https://i.ibb.co/cYp2R7H/hematology.jpg",
+        "name": "Hematology"
+    },
+    {
+        "id": "DD9GER8REF",
+        "img": "https://i.ibb.co/VWpk882/Neurology.jpg",
+        "name": "Neurology"
+    },
+    {
+        "id": "DD98REF",
+        "img": "https://i.ibb.co/FVx5WDG/Doctor-vascular-surgeon-holds-a-scalpel-near-the-legs-of-a-woman-with-a-disease-of-varicose-veins-of.jpg",
+        "name": "Vascular Surgery"
+    }
+]

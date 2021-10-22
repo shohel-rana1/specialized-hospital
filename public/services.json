@@ -1,0 +1,68 @@
+[
+    {
+        "key": 11,
+        "img": "https://i.ibb.co/mTPV6s6/Ambulance-Service.jpg",
+        "name": "Ambulance Service",
+        "description": "We provide 24 hours ambulance service"
+    },
+    {
+        "key": 12,
+        "img": "https://i.ibb.co/ZJj7RpV/Close-up-of-hand-entering-PIN-pass-code-for-a-money-transfer-on-a-ATM-bank-machine-keypad-outside.jpg",
+        "name": "ATM Booth",
+        "description": "You can cash out 24 hours"
+    },
+    {
+        "key": 13,
+        "img": "https://i.ibb.co/R7TsvKp/Blood-Banks.jpg",
+        "name": "Blood Bank",
+        "description": "We provide a huge blood bank"
+    },
+    {
+        "key": 14,
+        "img": "https://i.ibb.co/8rpQH9t/cafeteria.jpg",
+        "name": "Cafeteria",
+        "description": "You can have your meals"
+    },
+    {
+        "key": 15,
+        "img": "https://i.ibb.co/4pkwQWJ/car-parking.jpg",
+        "name": "Car Parking",
+        "description": "we have a huge paring area"
+    },
+    {
+        "key": 16,
+        "img": "https://i.ibb.co/74Zc90V/day-care.jpg",
+        "name": "Day Care",
+        "description": "We provide day care service for far away people"
+    },
+    {
+        "key": 17,
+        "img": "https://i.ibb.co/cY038Qr/medical-record.jpg",
+        "name": "Medical Records",
+        "description": "You can get any previous records"
+    },
+    {
+        "key": 18,
+        "img": "https://i.ibb.co/0r4bS2q/pharmacy.jpg",
+        "name": "Pharmacy",
+        "description": "You can any kinda medicine here"
+    },
+    {
+        "key": 19,
+        "img": "https://i.ibb.co/h7Yxw7C/prayer-room.jpg",
+        "name": "Prayer Room",
+        "description": "A big area ,for prayers"
+    },
+    {
+        "key": 40,
+        "img": "https://i.ibb.co/yYJHjcP/vaccination.jpg",
+        "name": "Vaccination Center",
+        "description": "You can get all kida vaccine that you need"
+    },
+    {
+        "key": 41,
+        "img": "https://i.ibb.co/26Nf11C/wifi.png",
+        "name": "Wifi Facility",
+        "description": "We provide 24 hours wifi"
+    }
+]
